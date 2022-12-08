@@ -1,0 +1,35 @@
+.Low{
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .navlinks {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 20px;
+  }
+  .profile {
+    width: 430px;
+    padding-top: 20px;
+    height: 540px;
+    border-radius: 5%;
+    border-color: none;
+    border-width: 0px;
+    border-style: solid;
+  }
+  .logo {
+    font-size: 35px;
+    color: black;
+    padding-left: 100px;
+  }
